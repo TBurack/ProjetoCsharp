@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v68+HOE9TuQqubRG6Auy20hziaYHX/JZNtesEfw1IaBDGXpskbf+hCTN6MTO79yjwQiQmRbkz5AR9eAXYljt5g==",
+  "success": true,
+  "projectFilePath": "D:\\FWU\\PROGRAMAÇÃO\\Projeto C#\\AulasCsharp\\Aula1\\Aula1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
